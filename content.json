@@ -5481,7 +5481,11 @@
       },
       {
         "name": "New client",
-        "src": "/assets/uploads/trind-click-logo-yndok.png"
+        "src": "https://raw.githubusercontent.com/sybloody-stack/sybloody-stack.github.io/main/assets/uploads/whatsapp-image-2026-09-09-at-3-35-52-am-kwjmf.jpeg"
+      },
+      {
+        "name": "New client",
+        "src": "https://raw.githubusercontent.com/sybloody-stack/sybloody-stack.github.io/main/assets/uploads/ffd3c7ba-ec47-45c8-bb0a-c9b0b7deff3c-kwnor.jpg"
       },
       {
         "name": "New client",
@@ -6260,5 +6264,40 @@
         }
       ]
     }
+  },
+  "site": {
+    "name": "Trend Click",
+    "email": "trend.click.ae@gmail.com",
+    "whatsapp": "https://wa.me/971544022983",
+    "instagram": "https://www.instagram.com/trend.click.ae/",
+    "tiktok": "",
+    "facebook": "",
+    "behance": "",
+    "linkedin": "",
+    "location": {
+      "en": "Dubai — UAE",
+      "ar": "دبي — الإمارات"
+    },
+    "resumeUrl": "",
+    "portfolioUrl": "",
+    "fonts": {
+      "en": "Space Grotesk",
+      "ar": "Cairo",
+      "enFile": "",
+      "arFile": "",
+      "enFileName": "",
+      "arFileName": ""
+    },
+    "sections": {
+      "photography": true,
+      "video": true,
+      "advertising": false,
+      "social": true,
+      "about": true,
+      "clients": true
+    },
+    "logoMark": "/assets/brand/logo-mark.png",
+    "logoFullWhite": "/assets/brand/logo-full-white.png",
+    "logoFullDark": "/assets/brand/logo-full-dark.png"
   }
 }
