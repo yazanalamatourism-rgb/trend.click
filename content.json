@@ -6291,7 +6291,7 @@
     "sections": {
       "photography": true,
       "video": true,
-      "advertising": false,
+      "advertising": true,
       "social": true,
       "about": true,
       "clients": true
